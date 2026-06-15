@@ -16,4 +16,4 @@ Playwright renders each archived snapshot, perceptual hashing merges identical-l
 
 ## 📎 Read Full
 
-[wayback-video: Turn Any Site's History into a Video](https://dev.to/tegos/PLACEHOLDER)
+[wayback-video: Turn Any Site's History into a Video](https://dev.to/tegos/wayback-video-turn-any-sites-history-into-a-video-3542)
